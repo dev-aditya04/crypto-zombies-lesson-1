@@ -15,4 +15,4 @@
 * This is part of my public learning journey — more lessons and custom dApps coming soon .
 
 ##  Author
-Aditya a.k.a. `@Addyx040` on GitHub
+Aditya a.k.a. `@dev-aditya04` on GitHub
