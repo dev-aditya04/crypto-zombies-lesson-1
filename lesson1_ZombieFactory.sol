@@ -1,10 +1,10 @@
 
-   // SPDX-License-Identifier: MIT
+   //  This is the SPDX-License-Identifier: MIT
 pragma solidity >=0.5.0 <0.6.0;
 
-/// title ZombieFactory - A contract to create and store zombies with unique DNA .
-/// author Aditya .
-/// notice This is a beginner-level smart contract built while learning Solidity via CryptoZombies .
+/// Title is ZombieFactory - A contract to create and store zombies with unique DNA .
+/// Author Aditya .
+/// Notice This is a beginner-level smart contract built while learning Solidity via CryptoZombies .
 /// dev Teaches me about structs, arrays, functions, keccak256 hashing, and events .
 
 contract ZombieFactory {
